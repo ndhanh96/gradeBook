@@ -4,7 +4,6 @@ C:\Users\ndhan\gradeBook\src\gradeBook\bin\Debug\netcoreapp2.1\gradeBook.runtime
 C:\Users\ndhan\gradeBook\src\gradeBook\bin\Debug\netcoreapp2.1\gradeBook.dll
 C:\Users\ndhan\gradeBook\src\gradeBook\bin\Debug\netcoreapp2.1\gradeBook.pdb
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.csprojAssemblyReference.cache
-C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.csproj.CoreCompileInputs.cache
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.AssemblyInfoInputs.cache
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.AssemblyInfo.cs
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.dll
