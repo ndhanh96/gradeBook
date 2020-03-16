@@ -1,0 +1,17 @@
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.Tests.deps.json
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.Tests.runtimeconfig.json
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.Tests.runtimeconfig.dev.json
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.Tests.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.Tests.pdb
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\bin\Debug\netcoreapp2.1\gradeBook.pdb
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.AssemblyInfoInputs.cache
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.AssemblyInfo.cs
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.csproj.CopyComplete
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.dll
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.pdb
