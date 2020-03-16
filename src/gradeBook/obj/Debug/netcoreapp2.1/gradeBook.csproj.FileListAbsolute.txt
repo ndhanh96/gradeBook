@@ -8,3 +8,4 @@ C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.Assembl
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.AssemblyInfo.cs
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.dll
 C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.pdb
+C:\Users\ndhan\gradeBook\src\gradeBook\obj\Debug\netcoreapp2.1\gradeBook.csproj.CoreCompileInputs.cache

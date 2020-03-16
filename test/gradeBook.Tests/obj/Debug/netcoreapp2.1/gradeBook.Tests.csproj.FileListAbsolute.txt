@@ -14,3 +14,4 @@ C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.
 C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.csproj.CopyComplete
 C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.dll
 C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.pdb
+C:\Users\ndhan\gradeBook\test\gradeBook.Tests\obj\Debug\netcoreapp2.1\gradeBook.Tests.csproj.CoreCompileInputs.cache
