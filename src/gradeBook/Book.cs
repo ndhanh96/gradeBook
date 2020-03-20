@@ -3,12 +3,13 @@ using System.Collections.Generic;
 
 namespace gradeBook
 {
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
     public class Book
-    {
+    {   
         public Book(string name)
         {
             grades = new List<double>();
-            Name = name;
+            this.name = name;
             sumGrade = 0d;
             highestGrade = double.MinValue;
             LowestGrade = double.MaxValue;
@@ -45,6 +46,10 @@ namespace gradeBook
                 sumGrade += grade;
                 highestGrade = Math.Max(grade , highestGrade);
                 LowestGrade = Math.Min(grade, LowestGrade);
+                if (GradeAdded != null)
+                {
+                    GradeAdded(this, new EventArgs());
+                }
             }
             else 
             {
@@ -52,6 +57,7 @@ namespace gradeBook
             }
         
         }
+        public event GradeAddedDelegate GradeAdded;
 
         public Statistics GetStatistics()
         {
@@ -88,7 +94,25 @@ namespace gradeBook
         }
 
         private List<double> grades;
-        public string Name;
+        public string Name
+        {
+            get 
+            {
+                return name;
+            }
+            set
+            {
+                if (!String.IsNullOrEmpty(value))
+                {
+                    name = value;
+                }
+                else 
+                {
+                    throw new ArgumentNullException("Not");
+                }
+            }
+        }
+        private string name;
         double sumGrade;
         double highestGrade;
         double LowestGrade;
